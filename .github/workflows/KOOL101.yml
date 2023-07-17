@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x BULETINFM.sh
-          ./BULETINFM.sh
+          chmod +x KOOL101.sh
+          ./KOOL101.sh
         
       - name: git add
         run: |
